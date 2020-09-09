@@ -1,0 +1,42 @@
+https://web.stanford.edu/~hastie/Papers/ESLII.pdf -->  The Elements of Statistical Learning Hastie, Tibshirani, Friedman
+AI – Modern approach Russel & Norvig 
+http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf --> Data Mining and Analysis (Zaki & Meira)
+
+https://towardsdatascience.com/detecting-credit-card-fraud-using-machine-learning-a3d83423d3b8
+https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
+https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now
+https://www.kaggle.com/kabure/credit-card-fraud-prediction-rf-smote
+https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail
+https://www.kaggle.com/lct14558/imbalanced-data-why-you-should-not-use-roc-curve
+https://www.kaggle.com/gpreda/credit-card-fraud-detection-predictive-models
+https://www.kaggle.com/vincentlugat/votingclassifier-f1-score-0-88-data-viz
+https://www.kaggle.com/vincentlugat/lightgbm-plotly --> za V znacajke
+https://www.kaggle.com/mlg-ulb/creditcardfraud/data --> podaci + naci radove
+https://machinelearningmastery.com/bagging-ensemble-with-python/
+https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
+https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
+https://machinelearningmastery.com/how-to-identify-outliers-in-your-data/
+https://towardsdatascience.com/how-to-visualize-a-decision-tree-in-5-steps-19781b28ffe2
+https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/
+https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-imbalanced-classification/
+https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+https://machinelearningmastery.com/undersampling-algorithms-for-imbalanced-classification/
+https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification/
+https://machinelearningmastery.com/bagging-and-random-forest-for-imbalanced-classification/
+https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
+https://towardsdatascience.com/what-makes-lightgbm-lightning-fast-a27cf0d9785e
+https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c
+https://towardsdatascience.com/t-sne-clearly-explained-d84c537f53a
+https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb
+https://towardsdatascience.com/credit-card-fraud-detection-1b3b3b44109b
+https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
+http://www.ke.tu-darmstadt.de/lehre/archiv/ws0809/mldm/dt.pdf
+
+https://www.sciencedirect.com/science/article/pii/S187705092030065X ---> naci radove iz referenci
+https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets
+
+
+Pojmovi:
+t-SNE, PCA, Stabla odluke, Bootstraping, Bagging, Random Forest, Boosting, Logisticka regresija, SVM, undersampling (NearMiss), 
+oversampling (SMOTE), Grid search, cross-validation, Ansambl

@@ -1,0 +1,8 @@
+instalacija datoteka:
+1. instalacija anaconda navigator -> python 3.7
+2. dodatni paketi -- u anaconda promptu:
+-- conda install -c conda-forge imbalanced-learn 
+-- conda install -c conda-forge py-xgboost
+-- conda install -c conda-forge lightgbm
+-- conda install -c conda-forge catboost 
+-- reinstalacija scikit learn
