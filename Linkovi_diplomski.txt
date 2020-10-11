@@ -1,6 +1,5 @@
-https://web.stanford.edu/~hastie/Papers/ESLII.pdf -->  The Elements of Statistical Learning Hastie, Tibshirani, Friedman
-AI – Modern approach Russel & Norvig 
-http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf --> Data Mining and Analysis (Zaki & Meira)
+
+https://www.researchgate.net/project/Fraud-detection-with-machine-learning
 
 https://towardsdatascience.com/detecting-credit-card-fraud-using-machine-learning-a3d83423d3b8
 https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
@@ -12,6 +11,7 @@ https://www.kaggle.com/gpreda/credit-card-fraud-detection-predictive-models
 https://www.kaggle.com/vincentlugat/votingclassifier-f1-score-0-88-data-viz
 https://www.kaggle.com/vincentlugat/lightgbm-plotly --> za V znacajke
 https://www.kaggle.com/mlg-ulb/creditcardfraud/data --> podaci + naci radove
+https://machinelearningmastery.com/cross-validation-for-imbalanced-classification/
 https://machinelearningmastery.com/bagging-ensemble-with-python/
 https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
 https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/
@@ -25,18 +25,39 @@ https://machinelearningmastery.com/undersampling-algorithms-for-imbalanced-class
 https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification/
 https://machinelearningmastery.com/bagging-and-random-forest-for-imbalanced-classification/
 https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
+https://machinelearningmastery.com/xgboost-for-imbalanced-classification/
 https://towardsdatascience.com/what-makes-lightgbm-lightning-fast-a27cf0d9785e
 https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c
 https://towardsdatascience.com/t-sne-clearly-explained-d84c537f53a
 https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb
 https://towardsdatascience.com/credit-card-fraud-detection-1b3b3b44109b
+https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d
+https://syncedreview.com/2017/10/22/tree-boosting-with-xgboost-why-does-xgboost-win-every-machine-learning-competition/
 https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
 http://www.ke.tu-darmstadt.de/lehre/archiv/ws0809/mldm/dt.pdf
+https://medium.com/@ruinian/an-introduction-to-adasyn-with-code-1383a5ece7aa
+
+https://en.wikipedia.org/wiki/Wireless_identity_theft
+https://en.wikipedia.org/wiki/Credit_card_fraud
 
 https://www.sciencedirect.com/science/article/pii/S187705092030065X ---> naci radove iz referenci
 https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets
 
+https://www.researchgate.net/post/How_do_statistical_tests_compare_to_two_classifier_performance
 
 Pojmovi:
-t-SNE, PCA, Stabla odluke, Bootstraping, Bagging, Random Forest, Boosting, Logisticka regresija, SVM, undersampling (NearMiss), 
-oversampling (SMOTE), Grid search, cross-validation, Ansambl
+t-SNE, PCA, Stabla odluke, Bootstraping, Bagging, Random Forest, Boosting, Logisticka regresija, SVM, undersampling (NearMiss + ostalo), 
+oversampling (SMOTE + ostalo), Grid search, cross-validation, Ansambl
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+https://www.kaggle.com/rikdifos/credit-card-approval-prediction
+https://www.kaggle.com/rikdifos/credit-card-approval-prediction-using-ml?select=application_record.csv
+https://www.kaggle.com/rikdifos/eda-vintage-analysis
+https://www.kaggle.com/ramgprajapat/credit-card-approval-model-using-xgboost
+
+------------------------------------------------------------------------------------------------------------------------------
+https://www.kaggle.com/c/home-credit-default-risk/data
