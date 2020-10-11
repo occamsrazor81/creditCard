@@ -1,7 +1,8 @@
-pics - pictures used
-notebooks - jupyter notebooks 
-dataset - credit card fraud detection - available at https://www.kaggle.com/mlg-ulb/creditcardfraud
-About:
+Read me:
+pics - pictures used <br>
+notebooks - jupyter notebooks  <br>
+dataset - credit card fraud detection - available at https://www.kaggle.com/mlg-ulb/creditcardfraud <br>
+About: 
 <ul>
   <li>k-fold.iypnb - for explaining difference between KFold and StratifiedKFold</li>
   <li>EDA.ipynb - exploratory data analysis</li>
@@ -12,6 +13,6 @@ About:
   <li>oversampling_ccfd.ipynb - notebook in which we use oversampled data for training (random oversampling, SMOTE. BorderlineSMOTE. ADASYN)
   <li>over_under_combination.ipynb - notebook where we combined more than one resampling technique - (some combine oversampling and undersampling, some combine 2 undersampling)
 </ul>
-
-There is navigation within each bigger file to help you find what you're looking for.
+<br>
+There is navigation within each bigger file to help you find what you're looking for.<br>
 Have fun
