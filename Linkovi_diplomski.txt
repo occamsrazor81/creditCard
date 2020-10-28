@@ -2,15 +2,6 @@
 https://www.researchgate.net/project/Fraud-detection-with-machine-learning
 
 https://towardsdatascience.com/detecting-credit-card-fraud-using-machine-learning-a3d83423d3b8
-https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
-https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now
-https://www.kaggle.com/kabure/credit-card-fraud-prediction-rf-smote
-https://www.kaggle.com/gargmanish/how-to-handle-imbalance-data-study-in-detail
-https://www.kaggle.com/lct14558/imbalanced-data-why-you-should-not-use-roc-curve
-https://www.kaggle.com/gpreda/credit-card-fraud-detection-predictive-models
-https://www.kaggle.com/vincentlugat/votingclassifier-f1-score-0-88-data-viz
-https://www.kaggle.com/vincentlugat/lightgbm-plotly --> za V znacajke
-https://www.kaggle.com/mlg-ulb/creditcardfraud/data --> podaci + naci radove
 https://machinelearningmastery.com/cross-validation-for-imbalanced-classification/
 https://machinelearningmastery.com/bagging-ensemble-with-python/
 https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
@@ -34,32 +25,10 @@ https://towardsdatascience.com/credit-card-fraud-detection-1b3b3b44109b
 https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d
 https://syncedreview.com/2017/10/22/tree-boosting-with-xgboost-why-does-xgboost-win-every-machine-learning-competition/
 https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
-http://www.ke.tu-darmstadt.de/lehre/archiv/ws0809/mldm/dt.pdf
 https://medium.com/@ruinian/an-introduction-to-adasyn-with-code-1383a5ece7aa
 https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
 https://towardsdatascience.com/why-xgboost-is-so-effective-3a193951e289
-
 https://en.wikipedia.org/wiki/Wireless_identity_theft
 https://en.wikipedia.org/wiki/Credit_card_fraud
-
-https://www.sciencedirect.com/science/article/pii/S187705092030065X ---> naci radove iz referenci
+https://www.sciencedirect.com/science/article/pii/S187705092030065X 
 https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets
-
-https://www.researchgate.net/post/How_do_statistical_tests_compare_to_two_classifier_performance
-
-Pojmovi:
-t-SNE, PCA, Stabla odluke, Bootstraping, Bagging, Random Forest, Boosting, Logisticka regresija, SVM, undersampling (NearMiss + ostalo), 
-oversampling (SMOTE + ostalo), Grid search, cross-validation, Ansambl
-
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------------
-https://www.kaggle.com/rikdifos/credit-card-approval-prediction
-https://www.kaggle.com/rikdifos/credit-card-approval-prediction-using-ml?select=application_record.csv
-https://www.kaggle.com/rikdifos/eda-vintage-analysis
-https://www.kaggle.com/ramgprajapat/credit-card-approval-model-using-xgboost
-
-------------------------------------------------------------------------------------------------------------------------------
-https://www.kaggle.com/c/home-credit-default-risk/data
