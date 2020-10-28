@@ -36,6 +36,8 @@ https://syncedreview.com/2017/10/22/tree-boosting-with-xgboost-why-does-xgboost-
 https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
 http://www.ke.tu-darmstadt.de/lehre/archiv/ws0809/mldm/dt.pdf
 https://medium.com/@ruinian/an-introduction-to-adasyn-with-code-1383a5ece7aa
+https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
+https://towardsdatascience.com/why-xgboost-is-so-effective-3a193951e289
 
 https://en.wikipedia.org/wiki/Wireless_identity_theft
 https://en.wikipedia.org/wiki/Credit_card_fraud
